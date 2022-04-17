@@ -1,3 +1,4 @@
 [submodule "stm32-rs"]
 	path = stm32-rs
-	url = https://github.com/stm32-rs/stm32-rs
+url=https://github.com/cpunion/stm32-rs
+	branch = change-adc-common-group-name
